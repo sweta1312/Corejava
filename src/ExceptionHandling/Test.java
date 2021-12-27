@@ -7,6 +7,7 @@ public class Test extends ArrayIndexOOBExample {
         a.method1();*/
 
      /*   Test.a.method1(); //null pointer exception
+
         Test.a.m2();*/
     }
 }
