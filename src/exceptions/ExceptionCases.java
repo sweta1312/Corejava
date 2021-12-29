@@ -1,6 +1,7 @@
 package exceptions;
 
 public class ExceptionCases {
+
     public static void main(String[] args) {
       /* //case1
         try{}
@@ -40,7 +41,7 @@ public class ExceptionCases {
         finally{}
         */
 
-        dads
+
 
         }
 
